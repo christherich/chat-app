@@ -1,1 +1,1 @@
-Chat app using python and JavaScript
+Chat app using Python and JavaScript 💬 👾
